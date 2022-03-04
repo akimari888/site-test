@@ -1,5 +1,32 @@
 body{
     color:red;
-    background-color: rgb(95, 255, 255);
+    background-color: rgb(255, 255, 255);
 
 }
+button{
+
+}
+.btn{
+    height: 40px;
+    font-size: 20px;
+    background-color: rgb(226, 43, 43);
+    border-radius: 30px;
+    border: 2px solid black;
+    color: aliceblue;
+}
+.card{
+    text-align: center;
+    background-color: rgb(133, 224, 156);
+    border: 2px solid rgb(6, 91, 218);
+    margin-bottom: 20px;
+    padding: 20px;
+  
+}
+#alt-card{
+    margin: 30px;
+    padding: 40px;
+}
+#btn1{
+    color:black;
+    background-color: white;
+} 
